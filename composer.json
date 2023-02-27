@@ -1,0 +1,19 @@
+{
+    "name": "quiverscore/quiverscore",
+    "description": "Quiver Core lib",
+    "authors": [
+        {
+            "name": "kavita saini",
+            "email": "kavita.saini@thoughts2bianry.com"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^10.1"
+    },
+    "repositories": [ 
+        {
+            "type": "vcs",
+            "url": "git clone https://kavitasaini99@bitbucket.org/quivers/quiverscore.git"
+        }
+     ]
+}
